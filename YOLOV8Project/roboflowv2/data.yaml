@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+kpt_shape: [22, 3]
+flip_idx: [0, 1, 2, 11, 10, 9, 8, 7, 6, 5, 4, 3, 13, 12, 15, 14, 16, 18, 17, 21, 20, 19]
+
+nc: 1
+names: ['airplane']
+
+roboflow:
+  workspace: keypointdetectionairplane
+  project: airplane-pose
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/keypointdetectionairplane/airplane-pose/dataset/2
