@@ -1,0 +1,23 @@
+[1.358s] Invoking command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/regulation_ang': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/regulation_ang/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/regulation_ang build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/install.log --install-scripts $base/lib/regulation_ang --single-version-externally-managed install_data
+[1.616s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.616s]   warnings.warn(
+[1.627s] running egg_info
+[1.628s] writing ../build/regulation_ang/regulation_ang.egg-info/PKG-INFO
+[1.629s] writing dependency_links to ../build/regulation_ang/regulation_ang.egg-info/dependency_links.txt
+[1.629s] writing entry points to ../build/regulation_ang/regulation_ang.egg-info/entry_points.txt
+[1.629s] writing requirements to ../build/regulation_ang/regulation_ang.egg-info/requires.txt
+[1.629s] writing top-level names to ../build/regulation_ang/regulation_ang.egg-info/top_level.txt
+[1.632s] reading manifest file '../build/regulation_ang/regulation_ang.egg-info/SOURCES.txt'
+[1.633s] writing manifest file '../build/regulation_ang/regulation_ang.egg-info/SOURCES.txt'
+[1.633s] running build
+[1.634s] running build_py
+[1.634s] running install
+[1.634s] running install_lib
+[1.636s] running install_data
+[1.637s] running install_egg_info
+[1.641s] removing '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/regulation_ang/lib/python3.10/site-packages/regulation_ang-0.0.0-py3.10.egg-info' (and everything under it)
+[1.642s] Copying ../build/regulation_ang/regulation_ang.egg-info to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/regulation_ang/lib/python3.10/site-packages/regulation_ang-0.0.0-py3.10.egg-info
+[1.643s] running install_scripts
+[1.668s] Installing regulation_ang script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/regulation_ang/lib/regulation_ang
+[1.669s] writing list of installed files to '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/install.log'
+[1.731s] Invoked command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/regulation_ang' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/regulation_ang/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/regulation_ang build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/regulation_ang/install.log --install-scripts $base/lib/regulation_ang --single-version-externally-managed install_data

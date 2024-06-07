@@ -1,0 +1,23 @@
+[1.386s] Invoking command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/shin_detector': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/shin_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/shin_detector build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/install.log --install-scripts $base/lib/shin_detector --single-version-externally-managed install_data
+[1.661s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.661s]   warnings.warn(
+[1.671s] running egg_info
+[1.672s] writing ../build/shin_detector/shin_detector.egg-info/PKG-INFO
+[1.673s] writing dependency_links to ../build/shin_detector/shin_detector.egg-info/dependency_links.txt
+[1.673s] writing entry points to ../build/shin_detector/shin_detector.egg-info/entry_points.txt
+[1.673s] writing requirements to ../build/shin_detector/shin_detector.egg-info/requires.txt
+[1.673s] writing top-level names to ../build/shin_detector/shin_detector.egg-info/top_level.txt
+[1.676s] reading manifest file '../build/shin_detector/shin_detector.egg-info/SOURCES.txt'
+[1.677s] writing manifest file '../build/shin_detector/shin_detector.egg-info/SOURCES.txt'
+[1.677s] running build
+[1.678s] running build_py
+[1.678s] running install
+[1.679s] running install_lib
+[1.681s] running install_data
+[1.681s] running install_egg_info
+[1.683s] removing '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/shin_detector/lib/python3.10/site-packages/shin_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[1.684s] Copying ../build/shin_detector/shin_detector.egg-info to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/shin_detector/lib/python3.10/site-packages/shin_detector-0.0.0-py3.10.egg-info
+[1.685s] running install_scripts
+[1.714s] Installing talker script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/shin_detector/lib/shin_detector
+[1.714s] writing list of installed files to '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/install.log'
+[1.757s] Invoked command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/shin_detector' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/shin_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/shin_detector build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/shin_detector/install.log --install-scripts $base/lib/shin_detector --single-version-externally-managed install_data

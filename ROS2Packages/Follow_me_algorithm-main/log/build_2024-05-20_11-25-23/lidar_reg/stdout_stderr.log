@@ -1,0 +1,25 @@
+running egg_info
+writing ../build/lidar_reg/lidar_reg.egg-info/PKG-INFO
+writing dependency_links to ../build/lidar_reg/lidar_reg.egg-info/dependency_links.txt
+writing entry points to ../build/lidar_reg/lidar_reg.egg-info/entry_points.txt
+writing requirements to ../build/lidar_reg/lidar_reg.egg-info/requires.txt
+writing top-level names to ../build/lidar_reg/lidar_reg.egg-info/top_level.txt
+reading manifest file '../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+writing manifest file '../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying lidar_reg/mikkelcookershit.py -> /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/build/lib/lidar_reg
+running install
+running install_lib
+copying /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/build/lib/lidar_reg/mikkelcookershit.py -> /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+byte-compiling /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/mikkelcookershit.py to mikkelcookershit.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/lidar_reg/lidar_reg.egg-info to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bug2 script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+Installing lidar_reg script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+Installing lucasbewcas script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+Installing test script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+writing list of installed files to '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/install.log'

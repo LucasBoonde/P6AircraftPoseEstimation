@@ -1,0 +1,3 @@
+[console_scripts]
+regulation_ang = regulation_ang.regulation_ang:main
+

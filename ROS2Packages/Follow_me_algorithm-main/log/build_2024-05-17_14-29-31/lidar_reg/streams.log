@@ -1,0 +1,24 @@
+[2.271s] Invoking command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/lidar_reg': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/lidar_reg build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/install.log --single-version-externally-managed install_data
+[2.648s] running egg_info
+[2.649s] writing ../build/lidar_reg/lidar_reg.egg-info/PKG-INFO
+[2.649s] writing dependency_links to ../build/lidar_reg/lidar_reg.egg-info/dependency_links.txt
+[2.649s] writing entry points to ../build/lidar_reg/lidar_reg.egg-info/entry_points.txt
+[2.649s] writing requirements to ../build/lidar_reg/lidar_reg.egg-info/requires.txt
+[2.650s] writing top-level names to ../build/lidar_reg/lidar_reg.egg-info/top_level.txt
+[2.652s] reading manifest file '../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+[2.653s] writing manifest file '../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+[2.653s] running build
+[2.653s] running build_py
+[2.656s] running install
+[2.657s] running install_lib
+[2.658s] running install_data
+[2.659s] running install_egg_info
+[2.661s] removing '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.661s] Copying ../build/lidar_reg/lidar_reg.egg-info to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg-0.0.0-py3.10.egg-info
+[2.662s] running install_scripts
+[2.692s] Installing bug2 script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+[2.692s] Installing lidar_reg script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+[2.692s] Installing lucasbewcas script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+[2.693s] Installing test script to /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/lidar_reg
+[2.693s] writing list of installed files to '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/install.log'
+[2.730s] Invoked command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/lidar_reg' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/prefix_override:/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/lidar_reg build --build-base /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/build install --record /home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/build/lidar_reg/install.log --single-version-externally-managed install_data

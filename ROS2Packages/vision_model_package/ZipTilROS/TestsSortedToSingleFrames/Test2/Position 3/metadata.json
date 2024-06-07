@@ -1,0 +1,40 @@
+{
+    "data_info": {
+        "Color Rectified Aux": {
+            "fileFormat": "ppm",
+            "number_of_images": "26"
+        },
+        "Disparity Left": {
+            "fileFormat": "tiff",
+            "number_of_images": "22"
+        },
+        "Luma Rectified Left": {
+            "fileFormat": "tiff",
+            "number_of_images": "25"
+        },
+        "frames_per_second": 9.0,
+        "session_end": "15-05-2024 15-46-02",
+        "session_start": "15-05-2024 15-45-57",
+        "sources": "Luma Rectified Left,Color Rectified Aux,Disparity Left"
+    },
+    "metadata": {
+        "camera_api_build_date": "Mar  6 2024, 09:12:59",
+        "camera_api_version": "0x601",
+        "camera_extrinsics": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3\\830-01107-0012269_extrinsics.yml",
+        "camera_firmware_build_date": "Oct  5 2023, 21:45:53",
+        "camera_firmware_version": "0x606",
+        "camera_intrinsics": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3\\830-01107-0012269_intrinsics.yml",
+        "camera_name": "Multisense-S30",
+        "date": "15-05-2024 15-45-57"
+    },
+    "paths": {
+        "Color Rectified Aux": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Color Rectified Aux/ppm/",
+        "Disparity Left": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Disparity Left/tiff/",
+        "Luma Rectified Left": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Luma Rectified Left/tiff/",
+        "timestamp_file": {
+            "Color Rectified Aux": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Color Rectified Aux/timestamps.csv",
+            "Disparity Left": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Disparity Left/timestamps.csv",
+            "Luma Rectified Left": "C:\\Users\\kaspe\\Desktop\\Tests\\Test2\\Position 3/Luma Rectified Left/timestamps.csv"
+        }
+    }
+}
