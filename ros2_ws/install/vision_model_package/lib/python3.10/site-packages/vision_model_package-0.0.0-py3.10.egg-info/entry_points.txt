@@ -1,0 +1,4 @@
+[console_scripts]
+project_main_script = vision_model_package.ProjectMainScript:main
+xyz_subscriber = vision_model_package.XYZSubscriber:main
+

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/vision_model_package/vision_model_package.egg-info/PKG-INFO
+../../build/vision_model_package/vision_model_package.egg-info/SOURCES.txt
+../../build/vision_model_package/vision_model_package.egg-info/dependency_links.txt
+../../build/vision_model_package/vision_model_package.egg-info/entry_points.txt
+../../build/vision_model_package/vision_model_package.egg-info/requires.txt
+../../build/vision_model_package/vision_model_package.egg-info/top_level.txt
+../../build/vision_model_package/vision_model_package.egg-info/zip-safe
+resource/vision_model_package
+vision_model_package/ProjectMainScript copy.py
+vision_model_package/ProjectMainScript.py
+vision_model_package/XYZSubscriber.py
+vision_model_package/__init__.py

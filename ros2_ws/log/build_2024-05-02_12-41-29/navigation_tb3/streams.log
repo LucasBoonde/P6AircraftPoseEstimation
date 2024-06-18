@@ -1,0 +1,53 @@
+[0.249s] Invoking command in '/home/kodenfly123/ros2_ws/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/navigation_tb3 -- -j8 -l8
+[0.744s] [35m[1mConsolidate compiler generated dependencies of target pub_occupancy_grid[0m
+[0.744s] [  0%] Built target ament_cmake_python_copy_navigation_tb3
+[0.744s] [100%] Built target pub_occupancy_grid
+[0.744s] running egg_info
+[0.744s] writing navigation_tb3.egg-info/PKG-INFO
+[0.744s] writing dependency_links to navigation_tb3.egg-info/dependency_links.txt
+[0.745s] writing top-level names to navigation_tb3.egg-info/top_level.txt
+[0.745s] reading manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[0.745s] writing manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[0.745s] [100%] Built target ament_cmake_python_build_navigation_tb3_egg
+[0.965s] Invoked command in '/home/kodenfly123/ros2_ws/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/navigation_tb3 -- -j8 -l8
+[1.009s] Invoking command in '/home/kodenfly123/ros2_ws/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/navigation_tb3
+[1.023s] -- Install configuration: ""
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/lib/navigation_tb3/pub_occupancy_grid
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/launch
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/launch/navigation.launch.py
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/launch/mapping.launch.py
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/tb3_map.yaml
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/turtlebot3_lds_2d.lua
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/tb3_nav2_params.yaml
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/tb3_map.pgm
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/mapping.rviz
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/config/navigation.rviz
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/pythonpath.sh
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/pythonpath.dsv
+[1.026s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info
+[1.027s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.028s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/top_level.txt
+[1.029s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.029s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3-0.0.0-py3.10.egg-info/PKG-INFO
+[1.029s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3
+[1.029s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3/__init__.py
+[1.080s] Listing '/home/kodenfly123/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages/navigation_tb3'...
+[1.090s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/lib/navigation_tb3/single_goal_nav.py
+[1.090s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/lib/navigation_tb3/multi_waypoints.py
+[1.090s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/ament_index/resource_index/package_run_dependencies/navigation_tb3
+[1.090s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/ament_index/resource_index/parent_prefix_path/navigation_tb3
+[1.091s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/ament_prefix_path.sh
+[1.092s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/ament_prefix_path.dsv
+[1.093s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/path.sh
+[1.093s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/environment/path.dsv
+[1.093s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/local_setup.bash
+[1.093s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/local_setup.sh
+[1.094s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/local_setup.zsh
+[1.094s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/local_setup.dsv
+[1.094s] -- Installing: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/package.dsv
+[1.095s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/ament_index/resource_index/packages/navigation_tb3
+[1.095s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/cmake/navigation_tb3Config.cmake
+[1.095s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/cmake/navigation_tb3Config-version.cmake
+[1.095s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/navigation_tb3/share/navigation_tb3/package.xml
+[1.121s] Invoked command in '/home/kodenfly123/ros2_ws/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/navigation_tb3

@@ -1,0 +1,29 @@
+[0.249s] Invoking command in '/home/kodenfly123/ros2_ws/build/nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/nodes -- -j8 -l8
+[0.742s] [35m[1mConsolidate compiler generated dependencies of target laser_pub[0m
+[0.742s] [35m[1mConsolidate compiler generated dependencies of target pub_node[0m
+[0.743s] [35m[1mConsolidate compiler generated dependencies of target sub_node[0m
+[0.743s] [ 33%] Built target sub_node
+[0.743s] [ 66%] Built target laser_pub
+[0.743s] [100%] Built target pub_node
+[0.962s] Invoked command in '/home/kodenfly123/ros2_ws/build/nodes' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/nodes -- -j8 -l8
+[1.009s] Invoking command in '/home/kodenfly123/ros2_ws/build/nodes': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/nodes
+[1.025s] -- Install configuration: ""
+[1.027s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/lib/nodes/pub_node
+[1.027s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/lib/nodes/sub_node
+[1.028s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/lib/nodes/laser_pub
+[1.029s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/ament_index/resource_index/package_run_dependencies/nodes
+[1.029s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/ament_index/resource_index/parent_prefix_path/nodes
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/environment/ament_prefix_path.sh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/environment/ament_prefix_path.dsv
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/environment/path.sh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/environment/path.dsv
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/local_setup.bash
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/local_setup.sh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/local_setup.zsh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/local_setup.dsv
+[1.030s] -- Installing: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/package.dsv
+[1.034s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/ament_index/resource_index/packages/nodes
+[1.034s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/cmake/nodesConfig.cmake
+[1.034s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/cmake/nodesConfig-version.cmake
+[1.034s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/nodes/share/nodes/package.xml
+[1.055s] Invoked command in '/home/kodenfly123/ros2_ws/build/nodes' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/nodes

@@ -1,0 +1,21 @@
+[0.829s] Invoking command in '/home/kodenfly123/ros2_ws/src/vision_model_package': PYTHONPATH=/home/kodenfly123/ros2_ws/build/vision_model_package/prefix_override:/home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vision_model_package build --build-base /home/kodenfly123/ros2_ws/build/vision_model_package/build install --record /home/kodenfly123/ros2_ws/build/vision_model_package/install.log --single-version-externally-managed install_data
+[1.077s] running egg_info
+[1.077s] writing ../../build/vision_model_package/vision_model_package.egg-info/PKG-INFO
+[1.078s] writing dependency_links to ../../build/vision_model_package/vision_model_package.egg-info/dependency_links.txt
+[1.078s] writing entry points to ../../build/vision_model_package/vision_model_package.egg-info/entry_points.txt
+[1.078s] writing requirements to ../../build/vision_model_package/vision_model_package.egg-info/requires.txt
+[1.078s] writing top-level names to ../../build/vision_model_package/vision_model_package.egg-info/top_level.txt
+[1.080s] reading manifest file '../../build/vision_model_package/vision_model_package.egg-info/SOURCES.txt'
+[1.081s] writing manifest file '../../build/vision_model_package/vision_model_package.egg-info/SOURCES.txt'
+[1.081s] running build
+[1.081s] running build_py
+[1.081s] running install
+[1.081s] running install_lib
+[1.083s] running install_data
+[1.083s] running install_egg_info
+[1.085s] removing '/home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.085s] Copying ../../build/vision_model_package/vision_model_package.egg-info to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package-0.0.0-py3.10.egg-info
+[1.086s] running install_scripts
+[1.108s] Installing project_main_script script to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/vision_model_package
+[1.109s] Installing xyz_subscriber script to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/vision_model_package
+[1.109s] writing list of installed files to '/home/kodenfly123/ros2_ws/build/vision_model_package/install.log'

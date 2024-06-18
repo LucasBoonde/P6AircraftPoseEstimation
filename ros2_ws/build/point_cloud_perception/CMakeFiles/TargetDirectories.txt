@@ -1,0 +1,12 @@
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/uninstall.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/point_cloud_perception_uninstall.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/voxeling.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/planner_seg.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/clustering.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/test.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/edit_cache.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/rebuild_cache.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/list_install_components.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/install.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/install/local.dir
+/home/kodenfly123/ros2_ws/build/point_cloud_perception/CMakeFiles/install/strip.dir

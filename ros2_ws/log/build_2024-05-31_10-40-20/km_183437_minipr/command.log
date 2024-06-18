@@ -1,0 +1,2 @@
+Invoking command in '/home/kodenfly123/ros2_ws/build/km_183437_minipr': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/Path-planning-of-Two-wheel-robot-in-ROS-master -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/km_183437_minipr
+Invoked command in '/home/kodenfly123/ros2_ws/build/km_183437_minipr' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/Path-planning-of-Two-wheel-robot-in-ROS-master -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/km_183437_minipr

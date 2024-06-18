@@ -1,0 +1,21 @@
+[0.331s] Invoking command in '/home/kodenfly123/ros2_ws/build/lab1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/Evader Pursuer -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab1
+[0.652s] -- Configuring incomplete, errors occurred!
+[0.652s] See also "/home/kodenfly123/ros2_ws/build/lab1/CMakeFiles/CMakeOutput.log".
+[0.655s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.655s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.655s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.655s]   CMake did not find one.
+[0.655s] 
+[0.655s]   Could not find a package configuration file provided by "catkin" with any
+[0.655s]   of the following names:
+[0.655s] 
+[0.655s]     catkinConfig.cmake
+[0.655s]     catkin-config.cmake
+[0.655s] 
+[0.655s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.655s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.655s]   provides a separate development package or SDK, be sure it has been
+[0.655s]   installed.
+[0.655s] 
+[0.655s] [0m
+[0.663s] Invoked command in '/home/kodenfly123/ros2_ws/build/lab1' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/Evader Pursuer -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab1

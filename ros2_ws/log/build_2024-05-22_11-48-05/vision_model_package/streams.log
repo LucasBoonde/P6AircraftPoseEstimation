@@ -1,0 +1,25 @@
+[0.555s] Invoking command in '/home/kodenfly123/ros2_ws/src/vision_model_package': PYTHONPATH=/home/kodenfly123/ros2_ws/build/vision_model_package/prefix_override:/home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vision_model_package build --build-base /home/kodenfly123/ros2_ws/build/vision_model_package/build install --record /home/kodenfly123/ros2_ws/build/vision_model_package/install.log --single-version-externally-managed install_data
+[0.769s] running egg_info
+[0.769s] writing ../../build/vision_model_package/vision_model_package.egg-info/PKG-INFO
+[0.770s] writing dependency_links to ../../build/vision_model_package/vision_model_package.egg-info/dependency_links.txt
+[0.770s] writing entry points to ../../build/vision_model_package/vision_model_package.egg-info/entry_points.txt
+[0.770s] writing requirements to ../../build/vision_model_package/vision_model_package.egg-info/requires.txt
+[0.770s] writing top-level names to ../../build/vision_model_package/vision_model_package.egg-info/top_level.txt
+[0.772s] reading manifest file '../../build/vision_model_package/vision_model_package.egg-info/SOURCES.txt'
+[0.773s] writing manifest file '../../build/vision_model_package/vision_model_package.egg-info/SOURCES.txt'
+[0.773s] running build
+[0.773s] running build_py
+[0.773s] copying vision_model_package/XYZSubscriber.py -> /home/kodenfly123/ros2_ws/build/vision_model_package/build/lib/vision_model_package
+[0.773s] running install
+[0.774s] running install_lib
+[0.774s] copying /home/kodenfly123/ros2_ws/build/vision_model_package/build/lib/vision_model_package/XYZSubscriber.py -> /home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package
+[0.775s] byte-compiling /home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package/XYZSubscriber.py to XYZSubscriber.cpython-310.pyc
+[0.776s] running install_data
+[0.776s] running install_egg_info
+[0.778s] removing '/home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.778s] Copying ../../build/vision_model_package/vision_model_package.egg-info to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages/vision_model_package-0.0.0-py3.10.egg-info
+[0.778s] running install_scripts
+[0.796s] Installing project_main_script script to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/vision_model_package
+[0.796s] Installing xyz_subscriber script to /home/kodenfly123/ros2_ws/install/vision_model_package/lib/vision_model_package
+[0.796s] writing list of installed files to '/home/kodenfly123/ros2_ws/build/vision_model_package/install.log'
+[0.819s] Invoked command in '/home/kodenfly123/ros2_ws/src/vision_model_package' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/build/vision_model_package/prefix_override:/home/kodenfly123/ros2_ws/install/vision_model_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vision_model_package build --build-base /home/kodenfly123/ros2_ws/build/vision_model_package/build install --record /home/kodenfly123/ros2_ws/build/vision_model_package/install.log --single-version-externally-managed install_data

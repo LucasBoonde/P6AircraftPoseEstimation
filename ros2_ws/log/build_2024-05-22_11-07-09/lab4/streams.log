@@ -1,0 +1,33 @@
+[0.268s] Invoking command in '/home/kodenfly123/ros2_ws/build/lab4': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/A-star Path Planning -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab4
+[0.675s] -- The C compiler identification is GNU 11.4.0
+[0.675s] -- The CXX compiler identification is GNU 11.4.0
+[0.675s] -- Detecting C compiler ABI info
+[0.675s] -- Detecting C compiler ABI info - done
+[0.675s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.676s] -- Detecting C compile features
+[0.676s] -- Detecting C compile features - done
+[0.676s] -- Detecting CXX compiler ABI info
+[0.676s] -- Detecting CXX compiler ABI info - done
+[0.676s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.676s] -- Detecting CXX compile features
+[0.676s] -- Detecting CXX compile features - done
+[0.676s] -- Configuring incomplete, errors occurred!
+[0.676s] See also "/home/kodenfly123/ros2_ws/build/lab4/CMakeFiles/CMakeOutput.log".
+[0.676s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.676s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.676s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.676s]   CMake did not find one.
+[0.676s] 
+[0.676s]   Could not find a package configuration file provided by "catkin" with any
+[0.676s]   of the following names:
+[0.676s] 
+[0.676s]     catkinConfig.cmake
+[0.676s]     catkin-config.cmake
+[0.676s] 
+[0.677s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.677s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.677s]   provides a separate development package or SDK, be sure it has been
+[0.677s]   installed.
+[0.677s] 
+[0.677s] [0m
+[0.693s] Invoked command in '/home/kodenfly123/ros2_ws/build/lab4' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/A-star Path Planning -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab4

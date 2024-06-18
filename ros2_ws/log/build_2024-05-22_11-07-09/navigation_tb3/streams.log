@@ -1,0 +1,10 @@
+[0.667s] Invoking command in '/home/kodenfly123/ros2_ws/build/navigation_tb3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/install/vision_model_package:/home/kodenfly123/ros2_ws/install/shin_detector:/home/kodenfly123/ros2_ws/install/robot_math:/home/kodenfly123/ros2_ws/install/regulation_vel:/home/kodenfly123/ros2_ws/install/regulation_ang:/home/kodenfly123/ros2_ws/install/py_pubsub:/home/kodenfly123/ros2_ws/install/py_coordinate:/home/kodenfly123/ros2_ws/install/lidar_reg:/home/kodenfly123/ros2_ws/install/coordinate_package:/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/navigation_tb3 -- -j8 -l8
+[0.741s] [  0%] Built target ament_cmake_python_copy_navigation_tb3
+[0.748s] [100%] Built target pub_occupancy_grid
+[1.015s] running egg_info
+[1.016s] writing navigation_tb3.egg-info/PKG-INFO
+[1.016s] writing dependency_links to navigation_tb3.egg-info/dependency_links.txt
+[1.016s] writing top-level names to navigation_tb3.egg-info/top_level.txt
+[1.018s] reading manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[1.024s] writing manifest file 'navigation_tb3.egg-info/SOURCES.txt'
+[1.061s] [100%] Built target ament_cmake_python_build_navigation_tb3_egg

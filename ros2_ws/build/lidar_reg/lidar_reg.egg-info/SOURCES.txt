@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../../build/lidar_reg/lidar_reg.egg-info/PKG-INFO
+../../../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt
+../../../build/lidar_reg/lidar_reg.egg-info/dependency_links.txt
+../../../build/lidar_reg/lidar_reg.egg-info/entry_points.txt
+../../../build/lidar_reg/lidar_reg.egg-info/requires.txt
+../../../build/lidar_reg/lidar_reg.egg-info/top_level.txt
+../../../build/lidar_reg/lidar_reg.egg-info/zip-safe
+lidar_reg/Publisher.py
+lidar_reg/__init__.py
+lidar_reg/subscriber.py
+lidar_reg/waypoint.py
+resource/lidar_reg

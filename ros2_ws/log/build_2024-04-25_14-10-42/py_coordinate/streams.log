@@ -1,0 +1,43 @@
+[0.799s] Invoking command in '/home/kodenfly123/ros2_ws/src/py_coordinate': PYTHONPATH=/home/kodenfly123/ros2_ws/build/py_coordinate/prefix_override:/home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_coordinate build --build-base /home/kodenfly123/ros2_ws/build/py_coordinate/build install --record /home/kodenfly123/ros2_ws/build/py_coordinate/install.log --single-version-externally-managed install_data
+[0.988s] running egg_info
+[0.989s] creating ../../build/py_coordinate/py_coordinate.egg-info
+[0.989s] writing ../../build/py_coordinate/py_coordinate.egg-info/PKG-INFO
+[0.989s] writing dependency_links to ../../build/py_coordinate/py_coordinate.egg-info/dependency_links.txt
+[0.989s] writing entry points to ../../build/py_coordinate/py_coordinate.egg-info/entry_points.txt
+[0.989s] writing requirements to ../../build/py_coordinate/py_coordinate.egg-info/requires.txt
+[0.990s] writing top-level names to ../../build/py_coordinate/py_coordinate.egg-info/top_level.txt
+[0.990s] writing manifest file '../../build/py_coordinate/py_coordinate.egg-info/SOURCES.txt'
+[0.991s] reading manifest file '../../build/py_coordinate/py_coordinate.egg-info/SOURCES.txt'
+[0.991s] adding license file 'LICENSE'
+[0.992s] writing manifest file '../../build/py_coordinate/py_coordinate.egg-info/SOURCES.txt'
+[0.992s] running build
+[0.992s] running build_py
+[0.992s] creating /home/kodenfly123/ros2_ws/build/py_coordinate/build
+[0.992s] creating /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib
+[0.992s] creating /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate
+[0.992s] copying py_coordinate/2D_pub.py -> /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate
+[0.992s] copying py_coordinate/turtle_control.py -> /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate
+[0.992s] copying py_coordinate/2D_sub.py -> /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate
+[0.992s] copying py_coordinate/__init__.py -> /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate
+[0.992s] running install
+[0.993s] running install_lib
+[0.993s] creating /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate
+[0.993s] copying /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate/2D_pub.py -> /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate
+[0.993s] copying /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate/turtle_control.py -> /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate
+[0.993s] copying /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate/2D_sub.py -> /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate
+[0.993s] copying /home/kodenfly123/ros2_ws/build/py_coordinate/build/lib/py_coordinate/__init__.py -> /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate
+[0.994s] byte-compiling /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate/2D_pub.py to 2D_pub.cpython-310.pyc
+[0.994s] byte-compiling /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate/turtle_control.py to turtle_control.cpython-310.pyc
+[0.994s] byte-compiling /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate/2D_sub.py to 2D_sub.cpython-310.pyc
+[0.994s] byte-compiling /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate/__init__.py to __init__.cpython-310.pyc
+[0.994s] running install_data
+[0.994s] creating /home/kodenfly123/ros2_ws/install/py_coordinate/share/ament_index
+[0.994s] creating /home/kodenfly123/ros2_ws/install/py_coordinate/share/ament_index/resource_index
+[0.994s] creating /home/kodenfly123/ros2_ws/install/py_coordinate/share/ament_index/resource_index/packages
+[0.994s] copying resource/py_coordinate -> /home/kodenfly123/ros2_ws/install/py_coordinate/share/ament_index/resource_index/packages
+[0.994s] copying package.xml -> /home/kodenfly123/ros2_ws/install/py_coordinate/share/py_coordinate
+[0.994s] running install_egg_info
+[0.997s] Copying ../../build/py_coordinate/py_coordinate.egg-info to /home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages/py_coordinate-0.0.0-py3.10.egg-info
+[0.997s] running install_scripts
+[1.015s] writing list of installed files to '/home/kodenfly123/ros2_ws/build/py_coordinate/install.log'
+[1.043s] Invoked command in '/home/kodenfly123/ros2_ws/src/py_coordinate' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/build/py_coordinate/prefix_override:/home/kodenfly123/ros2_ws/install/py_coordinate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_coordinate build --build-base /home/kodenfly123/ros2_ws/build/py_coordinate/build install --record /home/kodenfly123/ros2_ws/build/py_coordinate/install.log --single-version-externally-managed install_data

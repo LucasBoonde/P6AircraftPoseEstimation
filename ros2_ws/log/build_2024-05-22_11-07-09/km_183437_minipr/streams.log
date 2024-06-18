@@ -1,0 +1,41 @@
+[0.275s] Invoking command in '/home/kodenfly123/ros2_ws/build/km_183437_minipr': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/Path-planning-of-Two-wheel-robot-in-ROS-master -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/km_183437_minipr
+[0.679s] -- The C compiler identification is GNU 11.4.0
+[0.680s] -- The CXX compiler identification is GNU 11.4.0
+[0.681s] -- Detecting C compiler ABI info
+[0.681s] -- Detecting C compiler ABI info - done
+[0.682s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.682s] -- Detecting C compile features
+[0.682s] -- Detecting C compile features - done
+[0.682s] -- Detecting CXX compiler ABI info
+[0.682s] -- Detecting CXX compiler ABI info - done
+[0.682s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.682s] -- Detecting CXX compile features
+[0.682s] -- Detecting CXX compile features - done
+[0.682s] -- Configuring incomplete, errors occurred!
+[0.682s] See also "/home/kodenfly123/ros2_ws/build/km_183437_minipr/CMakeFiles/CMakeOutput.log".
+[0.682s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.683s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.683s]   CMake.
+[0.684s] 
+[0.684s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.684s]   CMake that the project does not need compatibility with older versions.
+[0.684s] 
+[0.685s] [0m
+[0.685s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.685s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.685s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.685s]   CMake did not find one.
+[0.685s] 
+[0.685s]   Could not find a package configuration file provided by "catkin" with any
+[0.686s]   of the following names:
+[0.686s] 
+[0.686s]     catkinConfig.cmake
+[0.686s]     catkin-config.cmake
+[0.686s] 
+[0.686s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.686s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.686s]   provides a separate development package or SDK, be sure it has been
+[0.686s]   installed.
+[0.686s] 
+[0.686s] [0m
+[0.694s] Invoked command in '/home/kodenfly123/ros2_ws/build/km_183437_minipr' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/Path-planning-of-Two-wheel-robot-in-ROS-master -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/km_183437_minipr

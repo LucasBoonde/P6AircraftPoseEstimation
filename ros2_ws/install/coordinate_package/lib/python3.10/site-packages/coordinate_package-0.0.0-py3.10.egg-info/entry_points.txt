@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = coordinate_package.publisher:main
+subscriber = coordinate_package.subscriber:main
+

@@ -1,0 +1,5 @@
+[console_scripts]
+pub = lidar_reg.Publisher
+sub = lidar_reg.subscriber:main
+waypoint = lidar_reg.waypoint:main
+

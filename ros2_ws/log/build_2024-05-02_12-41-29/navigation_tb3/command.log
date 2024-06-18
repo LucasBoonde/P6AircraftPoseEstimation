@@ -1,0 +1,4 @@
+Invoking command in '/home/kodenfly123/ros2_ws/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/navigation_tb3 -- -j8 -l8
+Invoked command in '/home/kodenfly123/ros2_ws/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/navigation_tb3 -- -j8 -l8
+Invoking command in '/home/kodenfly123/ros2_ws/build/navigation_tb3': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/navigation_tb3
+Invoked command in '/home/kodenfly123/ros2_ws/build/navigation_tb3' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/navigation_tb3

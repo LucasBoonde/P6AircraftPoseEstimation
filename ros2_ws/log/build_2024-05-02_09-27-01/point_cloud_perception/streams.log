@@ -1,0 +1,172 @@
+[0.484s] Invoking command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ros2_learners-main/point_cloud_perception -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/point_cloud_perception
+[0.885s] -- The C compiler identification is GNU 11.4.0
+[0.885s] -- The CXX compiler identification is GNU 11.4.0
+[0.885s] -- Detecting C compiler ABI info
+[0.885s] -- Detecting C compiler ABI info - done
+[0.886s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.886s] -- Detecting C compile features
+[0.886s] -- Detecting C compile features - done
+[0.886s] -- Detecting CXX compiler ABI info
+[0.886s] -- Detecting CXX compiler ABI info - done
+[0.886s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.886s] -- Detecting CXX compile features
+[0.886s] -- Detecting CXX compile features - done
+[0.886s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.046s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.196s] -- Checking for module 'eigen3'
+[1.215s] --   Found eigen3, version 3.4.0
+[1.251s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[1.251s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[1.291s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.65.0") found components: system filesystem date_time iostreams serialization 
+[1.324s] -- Checking for module 'flann'
+[1.353s] --   Found flann, version 1.9.1
+[1.447s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[1.448s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[1.524s] -- Looking for pthread.h
+[1.642s] -- Looking for pthread.h - found
+[1.642s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.771s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.773s] -- Found Threads: TRUE  
+[1.777s] -- Found GLEW: /usr/lib/x86_64-linux-gnu/libGLEW.so  
+[1.793s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so  found components: OpenGL GLX 
+[2.038s] -- Found MPI_C: /usr/lib/x86_64-linux-gnu/libmpi.so (found version "3.1") 
+[2.039s] -- Found MPI: TRUE (found version "3.1") found components: C 
+[2.042s] -- Found JsonCpp: /usr/lib/x86_64-linux-gnu/libjsoncpp.so (found suitable version "1.9.5", minimum required is "0.7.0") 
+[2.052s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[2.071s] -- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.6.37") 
+[2.090s] -- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+[2.245s] -- Found X11: /usr/include   
+[2.246s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[2.370s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[2.371s] -- Looking for gethostbyname
+[2.484s] -- Looking for gethostbyname - found
+[2.484s] -- Looking for connect
+[2.602s] -- Looking for connect - found
+[2.602s] -- Looking for remove
+[2.721s] -- Looking for remove - found
+[2.722s] -- Looking for shmat
+[2.884s] -- Looking for shmat - found
+[2.885s] -- Looking for IceConnectionNumber in ICE
+[2.971s] -- Looking for IceConnectionNumber in ICE - found
+[3.076s] -- Found EXPAT: /usr/lib/x86_64-linux-gnu/libexpat.so (found version "2.4.7") 
+[3.079s] -- Found double-conversion: /usr/lib/x86_64-linux-gnu/libdouble-conversion.so  
+[3.082s] -- Found LZ4: /usr/lib/x86_64-linux-gnu/liblz4.so (found version "1.9.3") 
+[3.084s] -- Found LZMA: /usr/lib/x86_64-linux-gnu/liblzma.so (found version "5.2.5") 
+[3.120s] -- Found JPEG: /usr/lib/x86_64-linux-gnu/libjpeg.so (found version "80") 
+[3.127s] -- Found TIFF: /usr/lib/x86_64-linux-gnu/libtiff.so (found version "4.3.0")  
+[3.133s] -- Found Freetype: /usr/lib/x86_64-linux-gnu/libfreetype.so (found version "2.11.1") 
+[3.140s] -- Found utf8cpp: /usr/include/utf8cpp  
+[3.284s] -- Checking for module 'libusb-1.0'
+[3.312s] --   Found libusb-1.0, version 1.0.25
+[3.388s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[3.390s] -- Found OpenNI: /usr/lib/libOpenNI.so;libusb::libusb (found version "1.5.4.0") 
+[3.390s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[3.491s] -- Found OpenNI2: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb (found version "2.2.0.33") 
+[3.491s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[3.492s] [0m** WARNING ** io features related to pcap will be disabled[0m
+[3.811s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[3.822s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[3.834s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[4.156s] -- Found Qhull version 8.0.2
+[4.465s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[5.044s] -- looking for PCL_COMMON
+[5.047s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[5.047s] -- looking for PCL_KDTREE
+[5.065s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[5.066s] -- looking for PCL_OCTREE
+[5.068s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[5.068s] -- looking for PCL_SEARCH
+[5.070s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[5.071s] -- looking for PCL_SAMPLE_CONSENSUS
+[5.073s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[5.074s] -- looking for PCL_FILTERS
+[5.076s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[5.076s] -- looking for PCL_2D
+[5.077s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[5.077s] -- looking for PCL_GEOMETRY
+[5.078s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[5.078s] -- looking for PCL_IO
+[5.097s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[5.097s] -- looking for PCL_FEATURES
+[5.100s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[5.100s] -- looking for PCL_ML
+[5.102s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[5.103s] -- looking for PCL_SEGMENTATION
+[5.105s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[5.106s] -- looking for PCL_VISUALIZATION
+[5.108s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[5.109s] -- looking for PCL_SURFACE
+[5.111s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[5.128s] -- looking for PCL_REGISTRATION
+[5.130s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[5.131s] -- looking for PCL_KEYPOINTS
+[5.133s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[5.133s] -- looking for PCL_TRACKING
+[5.136s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[5.136s] -- looking for PCL_RECOGNITION
+[5.139s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[5.140s] -- looking for PCL_STEREO
+[5.142s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[5.142s] -- looking for PCL_APPS
+[5.162s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[5.163s] -- looking for PCL_IN_HAND_SCANNER
+[5.164s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[5.165s] -- looking for PCL_MODELER
+[5.166s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[5.167s] -- looking for PCL_POINT_CLOUD_EDITOR
+[5.172s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[5.172s] -- looking for PCL_OUTOFCORE
+[5.177s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[5.177s] -- looking for PCL_PEOPLE
+[5.195s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[5.197s] -- Found PCL: pcl_common;pcl_kdtree;pcl_octree;pcl_search;pcl_sample_consensus;pcl_filters;pcl_io;pcl_features;pcl_ml;pcl_segmentation;pcl_visualization;pcl_surface;pcl_registration;pcl_keypoints;pcl_tracking;pcl_recognition;pcl_stereo;pcl_apps;pcl_outofcore;pcl_people;Boost::system;Boost::filesystem;Boost::date_time;Boost::iostreams;Boost::serialization;/usr/lib/libOpenNI.so;libusb::libusb;/usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb;VTK::ChartsCore;VTK::CommonColor;VTK::CommonComputationalGeometry;VTK::CommonCore;VTK::CommonDataModel;VTK::CommonExecutionModel;VTK::CommonMath;VTK::CommonMisc;VTK::CommonTransforms;VTK::FiltersCore;VTK::FiltersExtraction;VTK::FiltersGeneral;VTK::FiltersGeometry;VTK::FiltersModeling;VTK::FiltersSources;VTK::ImagingCore;VTK::ImagingSources;VTK::InteractionImage;VTK::InteractionStyle;VTK::InteractionWidgets;VTK::IOCore;VTK::IOGeometry;VTK::IOImage;VTK::IOLegacy;VTK::IOPLY;VTK::RenderingAnnotation;VTK::RenderingCore;VTK::RenderingContext2D;VTK::RenderingLOD;VTK::RenderingFreeType;VTK::ViewsCore;VTK::ViewsContext2D;VTK::RenderingOpenGL2;VTK::GUISupportQt;FLANN::FLANN;QHULL::QHULL  
+[5.230s] -- Found OpenCV: /usr (found version "4.5.4") 
+[5.247s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.475s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.477s] -- Configured cppcheck include dirs: /home/kodenfly123/ros2_ws/src/ros2_learners-main/point_cloud_perception/include
+[5.477s] -- Configured cppcheck exclude dirs and/or files: 
+[5.479s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.482s] -- Added test 'lint_cmake' to check CMake code style
+[5.484s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.487s] -- Added test 'uncrustify' to check C / C++ code style
+[5.487s] -- Configured uncrustify additional arguments: 
+[5.489s] -- Added test 'xmllint' to check XML markup files
+[5.493s] -- Configuring done
+[5.591s] -- Generating done
+[5.596s] -- Build files have been written to: /home/kodenfly123/ros2_ws/build/point_cloud_perception
+[5.629s] Invoked command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ros2_learners-main/point_cloud_perception -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/point_cloud_perception
+[5.630s] Invoking command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/point_cloud_perception -- -j8 -l8
+[5.975s] [ 16%] [32mBuilding CXX object CMakeFiles/voxeling.dir/src/voxelizing.cpp.o[0m
+[5.975s] [ 33%] [32mBuilding CXX object CMakeFiles/planner_seg.dir/src/planner_seg.cpp.o[0m
+[5.975s] [ 50%] [32mBuilding CXX object CMakeFiles/clustering.dir/src/clustering.cpp.o[0m
+[14.635s] [ 66%] [32m[1mLinking CXX executable voxeling[0m
+[14.698s] [ 83%] [32m[1mLinking CXX executable planner_seg[0m
+[16.121s] [ 83%] Built target voxeling
+[16.621s] [ 83%] Built target planner_seg
+[19.918s] [100%] [32m[1mLinking CXX executable clustering[0m
+[23.121s] [100%] Built target clustering
+[23.140s] Invoked command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/point_cloud_perception -- -j8 -l8
+[23.204s] Invoking command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/point_cloud_perception
+[23.216s] -- Install configuration: ""
+[23.216s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/voxeling
+[23.216s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/planner_seg
+[23.217s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/clustering
+[23.219s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch
+[23.219s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab.launch.py
+[23.219s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch/rtab_mapping.launch.py
+[23.220s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/package_run_dependencies/point_cloud_perception
+[23.221s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/parent_prefix_path/point_cloud_perception
+[23.221s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.sh
+[23.221s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.dsv
+[23.221s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/path.sh
+[23.221s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/path.dsv
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.bash
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.sh
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.zsh
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.dsv
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/package.dsv
+[23.222s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/packages/point_cloud_perception
+[23.223s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig.cmake
+[23.223s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig-version.cmake
+[23.223s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/package.xml
+[23.226s] Invoked command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kodenfly123/ros2_ws/src/install/shin_detector:/home/kodenfly123/ros2_ws/src/install/robot_math:/home/kodenfly123/ros2_ws/src/install/regulation_vel:/home/kodenfly123/ros2_ws/src/install/regulation_ang:/home/kodenfly123/ros2_ws/src/install/py_pubsub:/home/kodenfly123/ros2_ws/src/install/py_coordinate:/home/kodenfly123/ros2_ws/src/install/lidar_reg:/home/kodenfly123/ros2_ws/src/install/coordinate_package:/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/point_cloud_perception

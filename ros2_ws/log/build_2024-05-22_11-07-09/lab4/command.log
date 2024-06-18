@@ -1,0 +1,2 @@
+Invoking command in '/home/kodenfly123/ros2_ws/build/lab4': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/A-star Path Planning -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab4
+Invoked command in '/home/kodenfly123/ros2_ws/build/lab4' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/A-star Path Planning -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab4

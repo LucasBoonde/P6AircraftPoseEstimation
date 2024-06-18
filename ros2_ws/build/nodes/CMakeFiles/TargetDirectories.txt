@@ -1,0 +1,12 @@
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/uninstall.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/nodes_uninstall.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/pub_node.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/sub_node.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/laser_pub.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/test.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/edit_cache.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/rebuild_cache.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/list_install_components.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/install.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/install/local.dir
+/home/kodenfly123/ros2_ws/build/nodes/CMakeFiles/install/strip.dir

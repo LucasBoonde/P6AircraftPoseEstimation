@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = py_coordinate.2D_pub:main
+

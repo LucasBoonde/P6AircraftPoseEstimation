@@ -1,0 +1,48 @@
+[2.171s] Invoking command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/lidar_reg': PYTHONPATH=/home/kodenfly123/ros2_ws/build/lidar_reg/prefix_override:/home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/lidar_reg build --build-base /home/kodenfly123/ros2_ws/build/lidar_reg/build install --record /home/kodenfly123/ros2_ws/build/lidar_reg/install.log --install-scripts $base/lib/lidar_reg --single-version-externally-managed install_data
+[2.628s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.628s]   warnings.warn(
+[2.645s] running egg_info
+[2.647s] creating ../../../build/lidar_reg/lidar_reg.egg-info
+[2.648s] writing ../../../build/lidar_reg/lidar_reg.egg-info/PKG-INFO
+[2.648s] writing dependency_links to ../../../build/lidar_reg/lidar_reg.egg-info/dependency_links.txt
+[2.648s] writing entry points to ../../../build/lidar_reg/lidar_reg.egg-info/entry_points.txt
+[2.648s] writing requirements to ../../../build/lidar_reg/lidar_reg.egg-info/requires.txt
+[2.648s] writing top-level names to ../../../build/lidar_reg/lidar_reg.egg-info/top_level.txt
+[2.649s] writing manifest file '../../../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+[2.652s] reading manifest file '../../../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+[2.654s] writing manifest file '../../../build/lidar_reg/lidar_reg.egg-info/SOURCES.txt'
+[2.655s] running build
+[2.655s] running build_py
+[2.655s] creating /home/kodenfly123/ros2_ws/build/lidar_reg/build
+[2.655s] creating /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib
+[2.655s] creating /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.656s] copying lidar_reg/Test.py -> /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.656s] copying lidar_reg/lidar_reg_for_linear_test.py -> /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.656s] copying lidar_reg/lidar_reg _final.py -> /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.657s] copying lidar_reg/__init__.py -> /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.657s] copying lidar_reg/lidar_reg_ang_test.py -> /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg
+[2.657s] running install
+[2.658s] running install_lib
+[2.659s] creating /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.660s] copying /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg/Test.py -> /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.660s] copying /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg/lidar_reg_for_linear_test.py -> /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.660s] copying /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg/lidar_reg _final.py -> /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.660s] copying /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg/__init__.py -> /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.660s] copying /home/kodenfly123/ros2_ws/build/lidar_reg/build/lib/lidar_reg/lidar_reg_ang_test.py -> /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg
+[2.664s] byte-compiling /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/Test.py to Test.cpython-310.pyc
+[2.667s] byte-compiling /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/lidar_reg_for_linear_test.py to lidar_reg_for_linear_test.cpython-310.pyc
+[2.667s] byte-compiling /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/lidar_reg _final.py to lidar_reg _final.cpython-310.pyc
+[2.670s] byte-compiling /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/__init__.py to __init__.cpython-310.pyc
+[2.671s] byte-compiling /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/lidar_reg_ang_test.py to lidar_reg_ang_test.cpython-310.pyc
+[2.675s] running install_data
+[2.676s] creating /home/kodenfly123/ros2_ws/install/lidar_reg/share/ament_index
+[2.676s] creating /home/kodenfly123/ros2_ws/install/lidar_reg/share/ament_index/resource_index
+[2.676s] creating /home/kodenfly123/ros2_ws/install/lidar_reg/share/ament_index/resource_index/packages
+[2.676s] copying resource/lidar_reg -> /home/kodenfly123/ros2_ws/install/lidar_reg/share/ament_index/resource_index/packages
+[2.676s] copying package.xml -> /home/kodenfly123/ros2_ws/install/lidar_reg/share/lidar_reg
+[2.676s] running install_egg_info
+[2.679s] Copying ../../../build/lidar_reg/lidar_reg.egg-info to /home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages/lidar_reg-0.0.0-py3.10.egg-info
+[2.680s] running install_scripts
+[2.725s] Installing lidar_reg script to /home/kodenfly123/ros2_ws/install/lidar_reg/lib/lidar_reg
+[2.726s] writing list of installed files to '/home/kodenfly123/ros2_ws/build/lidar_reg/install.log'
+[2.814s] Invoked command in '/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/lidar_reg' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/build/lidar_reg/prefix_override:/home/kodenfly123/ros2_ws/install/lidar_reg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/lidar_reg build --build-base /home/kodenfly123/ros2_ws/build/lidar_reg/build install --record /home/kodenfly123/ros2_ws/build/lidar_reg/install.log --install-scripts $base/lib/lidar_reg --single-version-externally-managed install_data

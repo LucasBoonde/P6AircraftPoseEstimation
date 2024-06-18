@@ -1,0 +1,32 @@
+[0.249s] Invoking command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/point_cloud_perception -- -j8 -l8
+[0.740s] [35m[1mConsolidate compiler generated dependencies of target clustering[0m
+[0.740s] [35m[1mConsolidate compiler generated dependencies of target voxeling[0m
+[0.740s] [35m[1mConsolidate compiler generated dependencies of target planner_seg[0m
+[0.740s] [ 33%] Built target voxeling
+[0.740s] [ 66%] Built target planner_seg
+[0.741s] [100%] Built target clustering
+[0.961s] Invoked command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kodenfly123/ros2_ws/build/point_cloud_perception -- -j8 -l8
+[1.008s] Invoking command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/point_cloud_perception
+[1.024s] -- Install configuration: ""
+[1.025s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/voxeling
+[1.027s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/planner_seg
+[1.028s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/lib/point_cloud_perception/clustering
+[1.029s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch/3d_depth_mapping_rtab.launch.py
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception//launch/rtab_mapping.launch.py
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/package_run_dependencies/point_cloud_perception
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/parent_prefix_path/point_cloud_perception
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.sh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/ament_prefix_path.dsv
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/path.sh
+[1.030s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/environment/path.dsv
+[1.031s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.bash
+[1.031s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.sh
+[1.031s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.zsh
+[1.031s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/local_setup.dsv
+[1.031s] -- Installing: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/package.dsv
+[1.032s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/ament_index/resource_index/packages/point_cloud_perception
+[1.032s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig.cmake
+[1.032s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/cmake/point_cloud_perceptionConfig-version.cmake
+[1.032s] -- Up-to-date: /home/kodenfly123/ros2_ws/install/point_cloud_perception/share/point_cloud_perception/package.xml
+[1.067s] Invoked command in '/home/kodenfly123/ros2_ws/build/point_cloud_perception' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kodenfly123/ros2_ws/build/point_cloud_perception

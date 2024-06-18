@@ -1,0 +1,2 @@
+Invoking command in '/home/kodenfly123/ros2_ws/build/lab1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/Evader Pursuer -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab1
+Invoked command in '/home/kodenfly123/ros2_ws/build/lab1' returned '1': /usr/bin/cmake /home/kodenfly123/ros2_ws/src/ROS-master/Evader Pursuer -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/kodenfly123/ros2_ws/install/lab1

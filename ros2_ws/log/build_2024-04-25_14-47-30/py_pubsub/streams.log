@@ -1,0 +1,23 @@
+[0.751s] Invoking command in '/home/kodenfly123/ros2_ws/src/py_pubsub': PYTHONPATH=/home/kodenfly123/ros2_ws/build/py_pubsub/prefix_override:/home/kodenfly123/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/kodenfly123/ros2_ws/build/py_pubsub/build install --record /home/kodenfly123/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.956s] running egg_info
+[0.957s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.957s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.958s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.958s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.958s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.960s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.960s] adding license file 'LICENSE'
+[0.961s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.961s] running build
+[0.961s] running build_py
+[0.961s] running install
+[0.962s] running install_lib
+[0.963s] running install_data
+[0.963s] running install_egg_info
+[0.965s] removing '/home/kodenfly123/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.966s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/kodenfly123/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.966s] running install_scripts
+[0.984s] Installing listener script to /home/kodenfly123/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.985s] Installing talker script to /home/kodenfly123/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.985s] writing list of installed files to '/home/kodenfly123/ros2_ws/build/py_pubsub/install.log'
+[1.017s] Invoked command in '/home/kodenfly123/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/kodenfly123/ros2_ws/build/py_pubsub/prefix_override:/home/kodenfly123/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/kodenfly123/ros2_ws/build/py_pubsub/build install --record /home/kodenfly123/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
