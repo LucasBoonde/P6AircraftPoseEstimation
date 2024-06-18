@@ -5,3 +5,6 @@ trained yolo network to generate keypoints, which it then sends through a ROS pu
 Vision package and sents them to the turtlebot to initiate movement. 
 
 The turtlebot is initiated in a ROS terminal and then the subscriber script is initiated. Then the Vision script is ran in a separate ROS terminal and it will publish the coordinates once it is finnished.
+
+
+In the vision model package directory is a ZipTilRos directory which contains different tiff images and their corresponding extrinsic matrices which was used in testing
