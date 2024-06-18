@@ -1,3 +1,0 @@
-[console_scripts]
-reg_vel = regulation_vel.reg_vel:main
-

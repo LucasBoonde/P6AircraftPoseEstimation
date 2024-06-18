@@ -1,4 +1,0 @@
-[console_scripts]
-pub = lidar_reg.Publisher
-test = lidar_reg.mikkelcookershit:main
-

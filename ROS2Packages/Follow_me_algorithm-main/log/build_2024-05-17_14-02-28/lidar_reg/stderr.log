@@ -1,5 +1,0 @@
-  File "/home/kodenfly123/ros2_ws/src/Follow_me_algorithm-main/install/lidar_reg/lib/python3.10/site-packages/lidar_reg/ODOM.py", line 28
-    self.odom_sub = self.create_subscription(Odometry, '/odom', self.odom_callback, QoSProfile(depth=1, reliability=ReliabilityPolicy.BEST_EFFORT)
-                                                                                    
-SyntaxError: invalid syntax. Perhaps you forgot a comma?
-

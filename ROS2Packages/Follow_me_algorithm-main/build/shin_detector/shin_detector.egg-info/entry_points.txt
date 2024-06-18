@@ -1,3 +1,0 @@
-[console_scripts]
-talker = shin_detector.shin_detector_final:main
-
